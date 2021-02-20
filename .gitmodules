@@ -1,0 +1,12 @@
+[submodule "website"]
+	path = website
+	url = git@github.com:Bantha-Diwit/website.git
+[submodule "db-typings"]
+	path = db-typings
+	url = git@github.com:Bantha-Diwit/db-typings.git
+[submodule "api-typings"]
+	path = api-typings
+	url = git@github.com:Bantha-Diwit/api-typings.git
+[submodule "api"]
+	path = api
+	url = git@github.com:Bantha-Diwit/api.git
